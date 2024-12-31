@@ -149,6 +149,17 @@ body {
   margin: 1.5% 3.5%;
 }
 
+.right-side button {
+  padding: 1.5%;
+  margin: 1.5%;
+  background-color: #3882F6;
+  color: white;
+  border-radius: 10%;
+  border-color: white;
+  border-style: solid;
+  width: 10vh;
+  height: 3.25vh;
+}
 
 .footer {
   display: flex;
