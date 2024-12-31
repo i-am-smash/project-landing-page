@@ -124,7 +124,31 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 5%;
 }
+
+.calltoaction {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3882F6;
+  border-style: solid;
+  border-radius: 3%;
+  border-color: #3882F6;
+  width: 85%;
+}
+
+.left-side h2 {
+  color: #F9FAF8;
+  font-weight: 900;
+  margin: 1.5% 5%;
+}
+
+.left-side .signupsubtext {
+  color: #E5E7EB;
+  margin: 1.5% 3.5%;
+}
+
 
 .footer {
   display: flex;
